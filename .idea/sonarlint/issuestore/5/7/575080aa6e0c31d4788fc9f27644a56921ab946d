@@ -1,0 +1,64 @@
+
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(ı®¨Ê8£šÆ“².
+[	java:S106"9Replace this use of System.out or System.err by a logger.(áÓİáùÿÿÿÿ8£šÆ“².
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(éØÒİúÿÿÿÿ8áİ—Ä±.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(öõºÀ8Æ‚ı±.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8£šÆ“².
+>	java:S131,""Add a default case to this switch.(Î‡›ó8Ø‚ Ä±.
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(Î–˜8¬¹ŠÓ±.
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(–íÇªüÿÿÿÿ8Ö™Ó±.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8£šÆ“².
+}
+java:S1149®"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ8£šÆ“².
+}
+java:S1149«"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(çÀ‹8£šÆ“².
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¬¹ŠÓ±.
+T	java:S106e"9Replace this use of System.out or System.err by a logger.(É¦ê8ä‡¼Ø±.
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8£šÆ“².
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(”ù¿8øÁ†ı±.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ÎÊ—Ç8Ö¾–ı±.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8£šÆ“².
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8è¦û±.
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ò»†¿ÿÿÿÿÿ8£šÆ“².
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(±ÅÁîıÿÿÿÿ8à™Å“².
+V	java:S106¢"9Replace this use of System.out or System.err by a logger.(îÿ£ï8£šÆ“².
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8£šÆ“².
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(±ÅÁîıÿÿÿÿ8‹±™ı±.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ñöàÿÿÿÿÿ8‚´÷ü±.
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(‚‘÷‡øÿÿÿÿ8Ş±Ó±.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(æš‚·øÿÿÿÿ8Ö¾–ı±.
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(ôò8¬¹ŠÓ±.
+}
+java:S1149¸"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Ã¿Ÿ8£šÆ“².
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(Ï¢ÄÜ8£šÆ“².
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(¦ç¼ùÿÿÿÿ8–˜ı±.
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(†çŒµ8©¹Ñ‘².
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(²íöíÿÿÿÿÿ8£šÆ“².
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(¡áâ8£šÆ“².
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8†“ÒÄ±.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(æ…¬Á8¶¯ıü±.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ïöËã8…‹æÅ±.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(Ä¥à¸úÿÿÿÿ8¹¿“².
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(´®¶Ñ8¨‰û±.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¯îÓÑıÿÿÿÿ8«×”Ä±.
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(öõºÀ8£šÆ“².
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(ıŸÍªüÿÿÿÿ8£šÆ“².
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(˜¬û±ıÿÿÿÿ8„àÌ“².
+y
+java:S2159¦"VRemove this call to "equals"; comparisons between unrelated types always return false.(Ğ”›ªøÿÿÿÿ8£šÆ“².
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(¶…Ô8Ê±›×±.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Äîôüûÿÿÿÿ8¬¹ŠÓ±.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8ˆÄíÆ±.
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(ê¤èî8£šÆ“².
+[	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Î×©¸ÿÿÿÿÿ8£šÆ“².
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8·îÆ±.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(á€»8£šÆ“².
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(¶…Ô8í«–Ä±.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(–›Ù‡8¬¹ŠÓ±.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(³Ÿ¨¨8·ÌÆ“².
+}
+java:S1149µ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ò©Ü—8£šÆ“².
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(„¥´û8Ÿ‘œÄ±.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(¡¨é‘8Æ‚ı±.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(áÇÏíÿÿÿÿÿ8›ø„û±.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(÷¨“ÿÿÿÿÿ8£šÆ“².
